@@ -1,2 +1,2 @@
-# Dashing
-Proto type for kookmin univercity.
+# for funny
+Here is space for a variety of interesting things.
